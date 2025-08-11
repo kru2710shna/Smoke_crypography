@@ -1,9 +1,0 @@
-{
-  "bounding_box_height": 404.0,
-  "avg_contour_area": 29547.5,
-  "centroid_y": 180.4950729052091,
-  "curvature_score": 120.33424377441406,
-  "num_contours": 1,
-  "smoke_density": 0.05657664609053498,
-  "mask_entropy_bits": 0.3137028466108012
-}
