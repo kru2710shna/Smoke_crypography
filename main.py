@@ -4,6 +4,8 @@ import json
 import cv2
 import numpy as np
 import pandas as pd
+import sys 
+
 
 from utils.basic import ensure_dir
 from utils.basic import save_image
@@ -17,7 +19,6 @@ from Preprocess import contour_features
 from Preprocess import density_feature
 from Preprocess import mask_entropy_bits
 from Preprocess import optical_flow_extras
-
 
 
 VIDEO = "data/Thin_Smoke_8___30s___4k_res.mp4"
